@@ -1,65 +1,49 @@
 ![Banner](https://raw.githubusercontent.com/wzern/wzern/main/banner-transparent.png)
 
-# [William Zernikow](https://www.wzernikow.com)
-### 📍 South Island, New Zealand  
-🎓 Computer Science Student @ University of Canterbury (2023–Present)  
-📚 Minor in Mathematics & Physics  
+# William Zernikow
+**Backend & Platform Engineering · CS @ University of Canterbury · Graduating Mid 2026**
 
+📍 Christchurch, New Zealand · [wzernikow.com](https://www.wzernikow.com) · [LinkedIn](https://www.linkedin.com/in/wzern)
 
-## 🔧 Tech Stack
+---
 
-**Languages:**  
-JavaScript • Python • C • PHP • HTML • CSS • Bash  
+I build systems that actually run - backend APIs, self-hosted infrastructure, and the kind of 
+projects that involve both code and hardware. CS student by day, homelabber by night.
 
-**Frameworks & Libraries:**  
-Vue.js • Node.js • React • Tailwind CSS • DaisyUI • Unity
+Previously did network installs and ISP infrastructure at KaPow! Internet, interned as a 
+full-stack dev at Sudo-code Ltd, and have been running a personal homelab since 2020 that's 
+grown from a single Raspberry Pi to virtualised servers on mini PCs.
 
-**Tools & Platforms:**  
-Linux • Git • Firestore • Docker • Firebase • NGINX • Apache  
+Currently looking for backend or platform engineering roles in NZ.
 
+---
 
-## 🚀 Focus Areas & Interests
+## Stack
 
-- 🖥️ Full-Stack Web Development  
-- 🧠 Embedded Systems  
-- 🌐 Networking & Server Infrastructure (Homelab Enthusiast)  
-- 🔐 Cybersecurity & Systems Programming  
-- 🛠️ Building things from scratch, learning by doing
+**Languages:** Python · JavaScript · PHP · C · Bash · SQL  
+**Backend:** Node.js · REST APIs · MySQL · Firestore  
+**Infrastructure:** Docker · Linux · NGINX · Proxmox · Git  
+**Hardware:** Raspberry Pi · ESP8266 · Arduino C++  
 
+---
 
-## 🎮 Passions & Hobbies
+## Projects
 
-- 🐧 Linux tinkering
-- 🔧 Self-hosting everything
-- ✈️ Student pilot
-- 🕹️ Making games (Unity + C#)
-- 🚵 Cycling
+[![solar-dashboard](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=solar-dashboard)](https://github.com/wzern/solar-dashboard)
+[![weather-pi-project](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=weather-pi-project)](https://github.com/wzern/weather-pi-project)
+[![homelab](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=homelab)](https://github.com/wzern/homelab)
 
+---
 
-## 📊 GitHub Stats
-
+## GitHub Stats
 [![Top Languages](https://gh-stats.wzernikow.com/api/top-langs?layout=compact&username=wzern&langs_count=8&theme=github_dark)](https://github.com/wzern?tab=repositories)
 
+---
 
-## 🔨 Current Projects
+## Outside of code
+Student pilot · cyclist · self-hosting enthusiast
 
-[![Readme Card](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=learning-react-js)](https://github.com/wzern/learning-react-js)
+---
 
-
-## 📁 Past Projects
-
-[![Readme Card](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=weather-pi-project)](https://github.com/wzern/weather-pi-project)  
-[![Readme Card](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=12DGT-Maths-Game)](https://github.com/wzern/12DGT-Maths-Game)  
-[![Readme Card](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=Retribution)](https://github.com/wzern/Retribution)
-
-
-## 🐍 Fancy Snake
-
+## Snake
 <img src="https://raw.githubusercontent.com/wzern/wzern/output/snake-dark.svg" alt="Snake animation" />
-
-
-## 📫 Contact
-
-- 🌐 [wzernikow.com](https://www.wzernikow.com)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/wzern)
-- 📧 me@wzernikow.com
