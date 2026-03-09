@@ -29,14 +29,14 @@ Currently looking for backend or platform engineering roles in NZ.
 
 ## Projects
 
-[![solar-dashboard](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=solar-dashboard)](https://github.com/wzern/solar-dashboard)
-[![weather-pi-project](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=weather-pi-project)](https://github.com/wzern/weather-pi-project)
-[![homelab](https://gh-stats.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=homelab)](https://github.com/wzern/homelab)
+[![solar-dashboard](https://grs.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=solar-dashboard)](https://github.com/wzern/solar-dashboard)
+[![weather-pi-project](https://grs.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=weather-pi-project)](https://github.com/wzern/weather-pi-project)
+[![homelab](https://grs.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=homelab)](https://github.com/wzern/homelab)
 
 ---
 
 ## GitHub Stats
-[![Top Languages](https://gh-stats.wzernikow.com/api/top-langs?layout=compact&username=wzern&langs_count=8&theme=github_dark)](https://github.com/wzern?tab=repositories)
+[![Top Languages](https://grs.wzernikow.com/api/top-langs?layout=compact&username=wzern&langs_count=8&theme=github_dark)](https://github.com/wzern?tab=repositories)
 
 ---
 
