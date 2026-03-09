@@ -31,6 +31,7 @@ Currently looking for backend or platform engineering roles in NZ.
 
 [![solar-dashboard](https://grs.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=solar-dashboard)](https://github.com/wzern/solar-dashboard)
 [![weather-pi-project](https://grs.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=weather-pi-project)](https://github.com/wzern/weather-pi-project)
+[![wzernikow.com](https://grs.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=wzernikow.com)](https://github.com/wzern/wzernikow.com)
 [![homelab](https://grs.wzernikow.com/api/pin?username=wzern&theme=github_dark&repo=homelab)](https://github.com/wzern/homelab)
 
 ---
